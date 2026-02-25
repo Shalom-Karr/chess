@@ -2,6 +2,8 @@
 
 A fully functional, lightweight Chess game with a built-in AI opponent, running entirely within a single HTML file. No servers, no installations, and no external libraries required.
 
+https://sk-chess.pages.dev/
+
 ![Status](https://img.shields.io/badge/Status-Playable-brightgreen)
 ![Tech](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JS-blue)
 
